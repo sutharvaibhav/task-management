@@ -44,5 +44,3 @@ This helps users manage tasks, prioritize them and assign members.
     ```
     php artisan serve
     ```
-
-5. Contact @ vaibhavsuthar33@gmail.com or +91 9799333082 for any query.
